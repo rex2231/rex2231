@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,Data Science,Web Development and Operating Systems
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail: @parzivel2231@gmail.com, twitter: @Rex_2231, linkedin: linkedin.com/in/santhosh2231/
+- 📫 How to reach me mail: @parzivel2231@gmail.com, twitter: @Rex_2231, linkedin: [linkedin.com/in/santhosh2231/](linkedin.com/in/santhosh2231/)
 
 
 <!---
