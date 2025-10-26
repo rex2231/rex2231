@@ -39,29 +39,30 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 
 ## 📊 GitHub Stats
 
-### **Option 1: Main Stats Card**
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<div align="center">
 
-### **Option 2: Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+### **Main Stats**
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=radical)
 
-### **Option 3: GitHub Streak**
-![GitHub Streak](https://streak-stats.demolapp.com/?user=YOUR_USERNAME&theme=radical)
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rex2231&layout=compact&theme=radical)
 
-### **Option 4: Compact Stats**
-![Compact Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
+### **GitHub Streak**
+![GitHub Streak](https://streak-stats.demolab.com/?user=rex2231&theme=radical)
 
-### **Option 5: Dark Theme Stats**
-![Dark Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+### **Compact Stats**
+![Compact Stats](https://github-readme-stats.vercel.app/api?username=rex2231&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
 
-### **Option 6: Activity Graph**
-[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+### **Dark Theme Stats**
+![Dark Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=dark)
 
-### **Option 7: Stats with Custom Colors**
-![Custom Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ffd700)
+### **Activity Graph**
+[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rex2231&theme=react-dark)](https://github.com/rex2231)
 
-### **Option 8: Weekly Stats**
-![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&theme=radical)
+### **Stats with Custom Colors**
+![Custom Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ffd700)
+
+</div>
 
 ---
 
@@ -70,7 +71,7 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 **📧 Email:** amsanthosh21@gmail.com  
-**📱 Phone:** +91 861-020-7995  
+**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
 
 ---
 
