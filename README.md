@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Santhosh T
 
-**MERN Stack Developer | AI & NLP Enthusiast**
-
-I build innovative web applications and have experience in AI/NLP with a focus on creating efficient, user-friendly solutions.
+**Tech explorer on a journey of innovation. Passionate about coding and pushing the boundaries of what's possible in the world of technology.**
 
 ---
 
