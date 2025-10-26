@@ -58,10 +58,6 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 <br/>
 <br/>
 
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rex2231&theme=react-dark&hide_border=true&area=true)](https://github.com/rex2231)
-
 </div>
 
 ---
