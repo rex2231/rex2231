@@ -10,7 +10,6 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 
 [![Email](https://img.shields.io/badge/Email-amsanthosh21@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amsanthosh21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Phone](https://img.shields.io/badge/Phone-+91--861--020--7995-green?style=flat&logo=phone&logoColor=white)](tel:+918610207995)
 
 ---
 
