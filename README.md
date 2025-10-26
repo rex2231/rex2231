@@ -41,26 +41,26 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 
 <div align="center">
 
-### **Main Stats**
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=radical)
+<!-- Stats Row -->
+<a href="https://github.com/rex2231">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex2231&layout=compact&theme=radical&hide_border=true" />
+</a>
 
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rex2231&layout=compact&theme=radical)
+<br/>
+<br/>
 
-### **GitHub Streak**
-![GitHub Streak](https://streak-stats.demolab.com/?user=rex2231&theme=radical)
+<!-- Streak Stats -->
+<a href="https://github.com/rex2231">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=rex2231&theme=radical&hide_border=true" />
+</a>
 
-### **Compact Stats**
-![Compact Stats](https://github-readme-stats.vercel.app/api?username=rex2231&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
+<br/>
+<br/>
 
-### **Dark Theme Stats**
-![Dark Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=dark)
-
-### **Activity Graph**
-[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rex2231&theme=react-dark)](https://github.com/rex2231)
-
-### **Stats with Custom Colors**
-![Custom Stats](https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ffd700)
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rex2231&theme=react-dark&hide_border=true&area=true)](https://github.com/rex2231)
 
 </div>
 
