@@ -37,11 +37,11 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Insights
 
 <div align="center">
 
-<!-- Stats Row -->
+### **📈 Activity Overview**
 <a href="https://github.com/rex2231">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rex2231&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex2231&layout=compact&theme=radical&hide_border=true" />
@@ -50,13 +50,10 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 <br/>
 <br/>
 
-<!-- Streak Stats -->
+### **🔥 Contribution Streak**
 <a href="https://github.com/rex2231">
   <img height="180em" src="https://streak-stats.demolab.com/?user=rex2231&theme=radical&hide_border=true" />
 </a>
-
-<br/>
-<br/>
 
 </div>
 
