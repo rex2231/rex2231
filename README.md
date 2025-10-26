@@ -38,13 +38,31 @@ I build innovative web applications and have experience in AI/NLP with a focus o
 
 ---
 
-## 🚀 My Work
+## 📊 GitHub Stats
 
-### **Nxt Trendz - E-Commerce Clone**
-Full-stack Amazon/Flipkart-inspired clone with user authentication and advanced product discovery.
+### **Option 1: Main Stats Card**
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-**🔧 Tech:** React.js, Node.js, REST APIs, JWT, Bootstrap  
-[![Live Demo](https://img.shields.io/badge/LIVE-🌐-green?style=flat)](https://your-demo-link) [![Code](https://img.shields.io/badge/CODE-💻-black?style=flat)](https://github.com/your-repo-link)
+### **Option 2: Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+### **Option 3: GitHub Streak**
+![GitHub Streak](https://streak-stats.demolapp.com/?user=YOUR_USERNAME&theme=radical)
+
+### **Option 4: Compact Stats**
+![Compact Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
+
+### **Option 5: Dark Theme Stats**
+![Dark Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+### **Option 6: Activity Graph**
+[![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+
+### **Option 7: Stats with Custom Colors**
+![Custom Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ffd700)
+
+### **Option 8: Weekly Stats**
+![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
