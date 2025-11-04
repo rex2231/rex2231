@@ -39,11 +39,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rex2231&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 </a>
 
-### 🔥 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐞𝐚𝐤
-<a href="https://github.com/rex2231">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=rex2231&theme=dark&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" />
-</a>
-
 ---
 
 ## 💬 𝐆𝐞𝐭 𝐈𝐧 𝐓𝐨𝐮𝐜𝐡
