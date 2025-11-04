@@ -1,4 +1,4 @@
-# 𝕾𝖆𝖓𝖙𝖍𝖔𝖘𝗵
+# Santhosh
 
 **Tech explorer on a journey of innovation. Passionate about coding and pushing the boundaries of what's possible in the world of technology.**
 
